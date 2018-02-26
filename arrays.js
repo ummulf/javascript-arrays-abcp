@@ -1,3 +1,3 @@
 var chocolateBars = ["snickers","kitkat"];
-chocolateBars.push("skittles");
+mychocolateBars ("skittles");
 // chocolateBars is now ["snickers","kitkat,skittles"]
