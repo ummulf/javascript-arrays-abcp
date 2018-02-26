@@ -1,2 +1,3 @@
 var chocolateBars = ["snickers","kitkat"];
-var myArray = ["snickers", "kitkat"];
+var chocolateBars = ["snickers", "kitkat"];
+
